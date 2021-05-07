@@ -1,0 +1,264 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generate-cookbook generates a cookbook given 10 recipes 1`] = `
+"<!DOCTYPE html>
+<html lang=\\"en\\">
+  <head>
+    <meta charset=\\"UTF-8\\" />
+    <meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\" />
+    <meta http-equiv=\\"X-UA-Compatible\\" content=\\"ie=edge\\" />
+    <title>My Team</title>
+  </head>
+  <body>
+    <section>
+      <h2>'Member Muffins?</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>milk <b>1 cup</b></li>
+        <li>sugar <b>2 tbs</b></li>
+        <li>flour <b>2 cups</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 220C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into backing tray</li>
+        <li>Cook for 15 mins</li>
+        <li>Enjoy!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>'Member Muffins?</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>milk <b>1 cup</b></li>
+        <li>sugar <b>2 tbs</b></li>
+        <li>flour <b>2 cups</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 220C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into backing tray</li>
+        <li>Cook for 15 mins</li>
+        <li>Enjoy!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>'Member Muffins?</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>milk <b>1 cup</b></li>
+        <li>sugar <b>2 tbs</b></li>
+        <li>flour <b>2 cups</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 220C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into backing tray</li>
+        <li>Cook for 15 mins</li>
+        <li>Enjoy!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>'Member Muffins?</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>milk <b>1 cup</b></li>
+        <li>sugar <b>2 tbs</b></li>
+        <li>flour <b>2 cups</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 220C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into backing tray</li>
+        <li>Cook for 15 mins</li>
+        <li>Enjoy!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>'Member Muffins?</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>milk <b>1 cup</b></li>
+        <li>sugar <b>2 tbs</b></li>
+        <li>flour <b>2 cups</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 220C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into backing tray</li>
+        <li>Cook for 15 mins</li>
+        <li>Enjoy!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>Barfalicious Brownies</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>sour milk <b>3 cups</b></li>
+        <li>pop rocks <b>3 tsp</b></li>
+        <li>milo <b>1 cup</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 180C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into baking tray</li>
+        <li>Cook for 25 mins</li>
+        <li>Barf!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>Barfalicious Brownies</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>sour milk <b>3 cups</b></li>
+        <li>pop rocks <b>3 tsp</b></li>
+        <li>milo <b>1 cup</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 180C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into baking tray</li>
+        <li>Cook for 25 mins</li>
+        <li>Barf!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>Barfalicious Brownies</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>sour milk <b>3 cups</b></li>
+        <li>pop rocks <b>3 tsp</b></li>
+        <li>milo <b>1 cup</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 180C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into baking tray</li>
+        <li>Cook for 25 mins</li>
+        <li>Barf!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>Barfalicious Brownies</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>sour milk <b>3 cups</b></li>
+        <li>pop rocks <b>3 tsp</b></li>
+        <li>milo <b>1 cup</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 180C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into baking tray</li>
+        <li>Cook for 25 mins</li>
+        <li>Barf!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>Barfalicious Brownies</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>sour milk <b>3 cups</b></li>
+        <li>pop rocks <b>3 tsp</b></li>
+        <li>milo <b>1 cup</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 180C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into baking tray</li>
+        <li>Cook for 25 mins</li>
+        <li>Barf!</li>
+      </ol>
+    </section>
+  </body>
+</html>
+"
+`;
+
+exports[`generate-cookbook generates a cookbook given a single recipe 1`] = `
+"<!DOCTYPE html>
+<html lang=\\"en\\">
+  <head>
+    <meta charset=\\"UTF-8\\" />
+    <meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\" />
+    <meta http-equiv=\\"X-UA-Compatible\\" content=\\"ie=edge\\" />
+    <title>My Team</title>
+  </head>
+  <body>
+  </body>
+</html>
+"
+`;
+
+exports[`generate-cookbook generates a cookbook given a two recipes 1`] = `
+"<!DOCTYPE html>
+<html lang=\\"en\\">
+  <head>
+    <meta charset=\\"UTF-8\\" />
+    <meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\" />
+    <meta http-equiv=\\"X-UA-Compatible\\" content=\\"ie=edge\\" />
+    <title>My Team</title>
+  </head>
+  <body>
+    <section>
+      <h2>'Member Muffins?</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>milk <b>1 cup</b></li>
+        <li>sugar <b>2 tbs</b></li>
+        <li>flour <b>2 cups</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 220C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into backing tray</li>
+        <li>Cook for 15 mins</li>
+        <li>Enjoy!</li>
+      </ol>
+    </section>
+    <section>
+      <h2>Barfalicious Brownies</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>sour milk <b>3 cups</b></li>
+        <li>pop rocks <b>3 tsp</b></li>
+        <li>milo <b>1 cup</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 180C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into baking tray</li>
+        <li>Cook for 25 mins</li>
+        <li>Barf!</li>
+      </ol>
+    </section>
+  </body>
+</html>
+"
+`;
+
+exports[`generate-cookbook generates an empty cookbook when there are no recipes 1`] = `
+"<!DOCTYPE html>
+<html lang=\\"en\\">
+  <head>
+    <meta charset=\\"UTF-8\\" />
+    <meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\" />
+    <meta http-equiv=\\"X-UA-Compatible\\" content=\\"ie=edge\\" />
+    <title>My Team</title>
+  </head>
+  <body></body>
+</html>
+"
+`;

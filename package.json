@@ -1,0 +1,16 @@
+{
+  "name": "cookbook-kata",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest --watch --no-cache"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  }
+}
