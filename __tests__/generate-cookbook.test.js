@@ -1,4 +1,3 @@
-const Recipe = require("../lib/Recipe.js");
 const generateCookbook = require("../lib/generate-cookbook.js");
 
 describe("generate-cookbook", () => {

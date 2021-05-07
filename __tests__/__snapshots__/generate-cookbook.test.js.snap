@@ -195,6 +195,23 @@ exports[`generate-cookbook generates a cookbook given a single recipe 1`] = `
     <title>My Team</title>
   </head>
   <body>
+    <section>
+      <h2>'Member Muffins?</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>milk <b>1 cup</b></li>
+        <li>sugar <b>2 tbs</b></li>
+        <li>flour <b>2 cups</b></li>
+      </ul>
+      <h4>Instructions:</h4>
+      <ol>
+        <li>Preheat oven to 220C</li>
+        <li>Mix ingredients</li>
+        <li>Pour into backing tray</li>
+        <li>Cook for 15 mins</li>
+        <li>Enjoy!</li>
+      </ol>
+    </section>
   </body>
 </html>
 "
